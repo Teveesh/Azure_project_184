@@ -1,0 +1,1001 @@
+OrderID,CustomerID,Region,Category,Product,OrderAmount,OrderDate
+ORD000108,CUST00146,North America,Clothing,Summer Dress,88.62,2024-05-21
+ORD000322,CUST00664,North America,Clothing,Running Shoes,95.97,2024-12-26
+ORD000602,CUST00336,North America,Toys & Games,Building Blocks,20.35,2024-08-10
+ORD000853,CUST00008,Asia Pacific,Electronics,Smartphone Case,64.32,2024-02-13
+ORD000505,CUST00013,Europe,Home & Kitchen,Coffee Maker,43.15,2024-05-13
+ORD000318,CUST00110,North America,Sports & Outdoors,Hiking Backpack,96.31,2024-11-09
+ORD000683,CUST00021,North America,Sports & Outdoors,Yoga Mat,139.0,2024-10-26
+ORD000282,CUST00415,Europe,Home & Kitchen,Knife Set,134.79,2024-03-21
+ORD000211,CUST00009,North America,Home & Kitchen,Storage Containers,77.99,2024-08-14
+ORD000552,CUST00378,North America,Electronics,Bluetooth Speaker,67.58,2024-05-29
+ORD000671,CUST00039,North America,Home & Kitchen,Knife Set,40.97,2024-04-19
+ORD000381,CUST00672,Europe,Home & Kitchen,Coffee Maker,112.59,2024-06-29
+ORD000266,CUST00284,South America,Home & Kitchen,Knife Set,15.13,2024-11-27
+ORD000097,CUST00326,North America,Sports & Outdoors,Water Bottle,40.19,2024-11-06
+ORD000584,CUST00453,Europe,Clothing,Wool Sweater,104.42,2024-08-23
+ORD000959,CUST00095,Asia Pacific,Electronics,Wireless Earbuds,45.78,2024-01-09
+ORD000718,CUST00034,North America,Beauty,Perfume,72.2,2024-11-02
+ORD000722,CUST00084,Europe,Clothing,Wool Sweater,77.64,2024-02-05
+ORD000413,CUST00542,Asia Pacific,Grocery,Pasta Pack,17.02,2024-11-04
+ORD000104,CUST00046,North America,Sports & Outdoors,Resistance Bands,147.78,2024-10-02
+ORD000579,CUST00345,North America,Electronics,Smartphone Case,194.77,2024-12-18
+ORD000438,CUST00015,North America,Electronics,Smartphone Case,55.73,2024-07-10
+ORD000265,CUST00007,North America,Toys & Games,Building Blocks,35.25,2024-06-07
+ORD000081,CUST00207,Asia Pacific,Home & Kitchen,Coffee Maker,114.11,2024-08-31
+ORD000321,CUST00236,North America,Home & Kitchen,Knife Set,95.41,2024-04-08
+ORD000703,CUST00607,Europe,Beauty,Shampoo Set,39.13,2024-09-18
+ORD000001,CUST00390,North America,Clothing,Denim Jacket,29.65,2024-02-22
+ORD000924,CUST00222,North America,Home & Kitchen,Table Lamp,31.57,2024-06-23
+ORD000188,CUST00690,North America,Toys & Games,Building Blocks,62.88,2024-01-14
+ORD000189,CUST00027,North America,Toys & Games,Action Figure,35.9,2024-03-30
+ORD000748,CUST00097,South America,Toys & Games,Puzzle Set,80.09,2024-10-21
+ORD000675,CUST00172,North America,Clothing,Summer Dress,101.32,2024-07-10
+ORD000406,CUST00018,North America,Books,Children's Storybook,27.14,2024-06-15
+ORD000987,CUST00292,Europe,Clothing,Running Shoes,41.45,2024-01-18
+ORD000257,CUST00234,North America,Beauty,Perfume,43.92,2024-11-19
+ORD000345,CUST00313,North America,Home & Kitchen,Coffee Maker,116.66,2024-12-14
+ORD000010,CUST00387,North America,Clothing,Denim Jacket,85.37,2024-12-25
+ORD000612,CUST00696,Europe,Sports & Outdoors,Yoga Mat,20.1,2024-02-29
+ORD000306,CUST00466,Europe,Clothing,Wool Sweater,20.37,2024-10-14
+ORD000761,CUST00006,North America,Beauty,Shampoo Set,38.63,2024-03-02
+ORD000424,CUST00019,North America,Clothing,Summer Dress,73.59,2024-12-18
+ORD000308,CUST00091,South America,Sports & Outdoors,Yoga Mat,33.62,2024-02-19
+ORD000794,CUST00087,Europe,Home & Kitchen,Knife Set,67.81,2024-02-05
+ORD000171,CUST00594,North America,Home & Kitchen,Knife Set,126.27,2024-05-11
+ORD000082,CUST00228,Europe,Toys & Games,Puzzle Set,71.27,2024-09-23
+ORD000440,CUST00050,Europe,Sports & Outdoors,Camping Tent,105.23,2024-09-07
+ORD000102,CUST00299,Europe,Electronics,Smartphone Case,32.78,2024-08-03
+ORD000519,CUST00089,North America,Electronics,Laptop Stand,166.22,2024-05-05
+ORD000931,CUST00418,North America,Electronics,Wireless Earbuds,33.36,2024-11-14
+ORD000105,CUST00507,North America,Toys & Games,Action Figure,31.47,2024-05-05
+ORD000099,CUST00338,Asia Pacific,Books,Sci-Fi Anthology,20.69,2024-04-11
+ORD000305,CUST00419,North America,Electronics,Wireless Earbuds,124.8,2024-05-15
+ORD000251,CUST00543,Asia Pacific,Grocery,Granola Bars,7.13,2024-09-14
+ORD000777,CUST00113,North America,Clothing,Wool Sweater,43.48,2024-08-15
+ORD000326,CUST00081,North America,Electronics,Laptop Stand,89.65,2024-10-14
+ORD000587,CUST00364,North America,Electronics,Wireless Earbuds,103.98,2024-05-21
+ORD000216,CUST00299,North America,Books,Self-Help Guide,10.31,2024-01-22
+ORD000595,CUST00655,Asia Pacific,Sports & Outdoors,Camping Tent,71.69,2024-06-06
+ORD000864,CUST00179,North America,Clothing,Running Shoes,52.31,2024-06-03
+ORD000538,CUST00656,South America,Clothing,Summer Dress,18.4,2024-11-04
+ORD000396,CUST00003,North America,Electronics,USB-C Cable,234.35,2024-06-02
+ORD000954,CUST00002,South America,Home & Kitchen,Coffee Maker,129.35,2024-02-01
+ORD000793,CUST00378,North America,Toys & Games,Action Figure,74.61,2024-12-16
+ORD000255,CUST00004,North America,Electronics,Laptop Stand,146.11,2024-02-26
+ORD000138,CUST00675,North America,Home & Kitchen,Non-stick Pan,102.07,2024-10-04
+ORD000361,CUST00351,North America,Sports & Outdoors,Yoga Mat,53.12,2024-01-23
+ORD000187,CUST00540,North America,Toys & Games,Action Figure,10.23,2024-03-15
+ORD000085,CUST00448,North America,Home & Kitchen,Table Lamp,75.23,2024-02-01
+ORD000324,CUST00094,Europe,Home & Kitchen,Storage Containers,124.57,2024-03-15
+ORD000604,CUST00056,North America,Electronics,Smartphone Case,196.51,2024-09-28
+ORD000160,CUST00365,North America,Sports & Outdoors,Hiking Backpack,165.36,2024-03-14
+ORD000167,CUST00508,North America,Toys & Games,Board Game,60.93,2024-11-13
+ORD000019,CUST00697,North America,Grocery,Organic Coffee,32.21,2024-02-28
+ORD000763,CUST00340,North America,Books,Self-Help Guide,13.99,2024-05-14
+ORD000852,CUST00502,North America,Clothing,Wool Sweater,80.43,2024-08-13
+ORD000207,CUST00445,North America,Clothing,Cotton T-Shirt,34.05,2024-03-14
+ORD000518,CUST00267,North America,Home & Kitchen,Knife Set,40.06,2024-04-05
+ORD000796,CUST00376,North America,Electronics,Wireless Earbuds,243.34,2024-01-12
+ORD000935,CUST00009,North America,Electronics,USB-C Cable,69.38,2024-11-01
+ORD000451,CUST00515,Asia Pacific,Toys & Games,Action Figure,38.07,2024-05-23
+ORD000615,CUST00376,Europe,Home & Kitchen,Non-stick Pan,81.62,2024-11-12
+ORD000522,CUST00524,South America,Toys & Games,Puzzle Set,48.37,2024-09-05
+ORD000693,CUST00465,North America,Clothing,Denim Jacket,85.49,2024-04-30
+ORD000061,CUST00019,Asia Pacific,Beauty,Shampoo Set,21.37,2024-08-23
+ORD000261,CUST00592,North America,Clothing,Running Shoes,41.63,2024-01-09
+ORD000165,CUST00098,Europe,Electronics,USB-C Cable,90.39,2024-10-16
+ORD000203,CUST00673,Europe,Clothing,Summer Dress,68.28,2024-03-20
+ORD000384,CUST00030,Europe,Electronics,Bluetooth Speaker,32.01,2024-09-15
+ORD000120,CUST00263,Europe,Sports & Outdoors,Camping Tent,37.07,2024-10-15
+ORD000448,CUST00487,North America,Grocery,Granola Bars,15.51,2024-02-14
+ORD000527,CUST00336,South America,Clothing,Denim Jacket,33.49,2024-10-30
+ORD000372,CUST00532,Europe,Sports & Outdoors,Camping Tent,92.54,2024-06-19
+ORD000717,CUST00025,Europe,Electronics,Laptop Stand,38.62,2024-10-20
+ORD000569,CUST00364,Europe,Electronics,Smartphone Case,181.91,2024-01-26
+ORD000618,CUST00312,Asia Pacific,Sports & Outdoors,Hiking Backpack,67.54,2024-01-02
+ORD000077,CUST00171,North America,Electronics,Wireless Earbuds,226.39,2024-02-24
+ORD000441,CUST00095,North America,Beauty,Perfume,11.59,2024-07-02
+ORD000127,CUST00013,North America,Clothing,Summer Dress,84.42,2024-04-11
+ORD000801,CUST00543,Asia Pacific,Electronics,Bluetooth Speaker,114.66,2024-08-14
+ORD000209,CUST00063,North America,Clothing,Running Shoes,47.72,2024-06-15
+ORD000259,CUST00074,North America,Sports & Outdoors,Yoga Mat,99.95,2024-07-03
+ORD000272,CUST00042,North America,Home & Kitchen,Knife Set,96.08,2024-08-10
+ORD000359,CUST00052,Asia Pacific,Toys & Games,Building Blocks,74.76,2024-08-02
+ORD000651,CUST00496,North America,Grocery,Olive Oil,23.11,2024-03-09
+ORD000804,CUST00481,North America,Electronics,USB-C Cable,170.47,2024-04-11
+ORD000769,CUST00516,North America,Books,Children's Storybook,9.53,2024-02-20
+ORD000949,CUST00012,North America,Toys & Games,Remote Control Car,36.19,2024-11-26
+ORD000678,CUST00012,Europe,Toys & Games,Remote Control Car,76.85,2024-04-15
+ORD000128,CUST00206,North America,Books,Self-Help Guide,34.45,2024-02-06
+ORD000667,CUST00319,North America,Books,Self-Help Guide,8.18,2024-08-26
+ORD000565,CUST00346,Europe,Electronics,Bluetooth Speaker,62.6,2024-10-28
+ORD000886,CUST00183,North America,Toys & Games,Remote Control Car,23.32,2024-05-30
+ORD000067,CUST00052,North America,Home & Kitchen,Table Lamp,139.58,2024-10-02
+ORD000790,CUST00099,Europe,Toys & Games,Action Figure,28.5,2024-01-04
+ORD000415,CUST00472,Europe,Grocery,Pasta Pack,18.04,2024-05-23
+ORD000876,CUST00328,North America,Clothing,Cotton T-Shirt,52.72,2024-12-18
+ORD000967,CUST00606,North America,Home & Kitchen,Non-stick Pan,105.77,2024-10-03
+ORD000840,CUST00445,Asia Pacific,Electronics,Smartphone Case,38.22,2024-10-22
+ORD000605,CUST00052,Europe,Books,Cookbook,15.24,2024-06-25
+ORD000961,CUST00534,Asia Pacific,Beauty,Perfume,70.33,2024-11-15
+ORD000220,CUST00075,Europe,Home & Kitchen,Storage Containers,131.87,2024-06-22
+ORD000878,CUST00050,North America,Home & Kitchen,Coffee Maker,37.06,2024-01-17
+ORD000951,CUST00537,Europe,Sports & Outdoors,Hiking Backpack,101.25,2024-07-18
+ORD000232,CUST00007,Europe,Grocery,Herbal Tea,25.91,2024-03-22
+ORD000906,CUST00292,Europe,Books,Mystery Novel,26.28,2024-11-18
+ORD000930,CUST00608,North America,Electronics,Smartphone Case,147.1,2024-08-13
+ORD000223,CUST00081,North America,Electronics,Wireless Earbuds,68.97,2024-11-17
+ORD000848,CUST00506,North America,Electronics,Laptop Stand,73.58,2024-07-21
+ORD000771,CUST00227,North America,Clothing,Summer Dress,73.54,2024-05-11
+ORD000650,CUST00362,North America,Beauty,Sunscreen SPF50,73.63,2024-12-20
+ORD000159,CUST00211,North America,Home & Kitchen,Coffee Maker,33.8,2024-02-10
+ORD000268,CUST00216,North America,Home & Kitchen,Storage Containers,57.47,2024-04-05
+ORD000617,CUST00556,South America,Clothing,Wool Sweater,46.01,2024-01-21
+ORD000530,CUST00307,North America,Electronics,Wireless Earbuds,81.18,2024-04-22
+ORD000765,CUST00061,Europe,Clothing,Wool Sweater,44.36,2024-04-02
+ORD000504,CUST00235,Europe,Books,Children's Storybook,12.27,2024-07-20
+ORD000887,CUST00368,North America,Home & Kitchen,Coffee Maker,74.9,2024-11-26
+ORD000922,CUST00451,North America,Electronics,Bluetooth Speaker,111.75,2024-06-03
+ORD000936,CUST00607,Europe,Sports & Outdoors,Hiking Backpack,115.54,2024-06-08
+ORD000950,CUST00408,North America,Toys & Games,Action Figure,82.26,2024-11-21
+ORD000293,CUST00037,Europe,Sports & Outdoors,Resistance Bands,68.72,2024-10-15
+ORD000789,CUST00136,North America,Electronics,USB-C Cable,238.33,2024-09-01
+ORD000340,CUST00002,North America,Home & Kitchen,Knife Set,143.56,2024-06-03
+ORD000945,CUST00075,North America,Home & Kitchen,Non-stick Pan,57.7,2024-12-21
+ORD000997,CUST00466,Europe,Electronics,USB-C Cable,62.75,2024-11-23
+ORD000369,CUST00324,South America,Books,Cookbook,20.43,2024-05-10
+ORD000805,CUST00150,North America,Sports & Outdoors,Yoga Mat,51.64,2024-08-10
+ORD000751,CUST00020,North America,Books,Cookbook,29.66,2024-04-27
+ORD000988,CUST00005,North America,Grocery,Pasta Pack,43.02,2024-11-22
+ORD000420,CUST00227,Europe,Books,Children's Storybook,24.21,2024-12-20
+ORD000787,CUST00300,Asia Pacific,Home & Kitchen,Coffee Maker,122.66,2024-08-14
+ORD000657,CUST00093,Asia Pacific,Toys & Games,Action Figure,18.52,2024-07-14
+ORD000273,CUST00089,South America,Grocery,Organic Coffee,31.85,2024-07-26
+ORD000564,CUST00315,Asia Pacific,Home & Kitchen,Non-stick Pan,120.12,2024-11-15
+ORD000904,CUST00118,Asia Pacific,Toys & Games,Remote Control Car,77.46,2024-02-03
+ORD000669,CUST00370,Europe,Home & Kitchen,Table Lamp,87.02,2024-02-07
+ORD000201,CUST00539,Europe,Books,Children's Storybook,25.97,2024-12-09
+ORD000398,CUST00126,Europe,Electronics,Wireless Earbuds,140.17,2024-06-26
+ORD000478,CUST00689,South America,Electronics,Laptop Stand,122.59,2024-10-06
+ORD000888,CUST00229,Europe,Electronics,Laptop Stand,236.33,2024-12-22
+ORD000151,CUST00522,Europe,Electronics,Wireless Earbuds,57.77,2024-10-29
+ORD000802,CUST00077,South America,Electronics,Wireless Earbuds,144.65,2024-04-16
+ORD000557,CUST00536,North America,Toys & Games,Board Game,54.29,2024-07-17
+ORD000032,CUST00463,Asia Pacific,Books,Cookbook,33.11,2024-07-27
+ORD000453,CUST00660,North America,Beauty,Face Moisturizer,17.08,2024-07-29
+ORD000442,CUST00659,North America,Electronics,USB-C Cable,242.04,2024-09-15
+ORD000432,CUST00391,North America,Electronics,Laptop Stand,224.28,2024-08-18
+ORD000795,CUST00049,North America,Books,Children's Storybook,22.49,2024-12-24
+ORD000500,CUST00138,Asia Pacific,Beauty,Lipstick,8.1,2024-12-02
+ORD000685,CUST00100,North America,Toys & Games,Remote Control Car,40.51,2024-12-04
+ORD000989,CUST00023,South America,Electronics,Laptop Stand,58.58,2024-12-02
+ORD000778,CUST00512,South America,Sports & Outdoors,Resistance Bands,174.21,2024-07-30
+ORD000016,CUST00304,Europe,Home & Kitchen,Table Lamp,65.92,2024-04-22
+ORD000435,CUST00055,North America,Sports & Outdoors,Hiking Backpack,100.66,2024-11-23
+ORD000132,CUST00016,South America,Toys & Games,Action Figure,56.97,2024-01-11
+ORD000542,CUST00061,Europe,Clothing,Cotton T-Shirt,90.64,2024-01-25
+ORD000289,CUST00501,North America,Home & Kitchen,Non-stick Pan,126.39,2024-09-22
+ORD000279,CUST00626,North America,Toys & Games,Remote Control Car,27.17,2024-11-09
+ORD000051,CUST00479,North America,Clothing,Denim Jacket,90.35,2024-04-14
+ORD000011,CUST00646,Europe,Books,Cookbook,25.09,2024-05-05
+ORD000644,CUST00312,North America,Electronics,Bluetooth Speaker,138.33,2024-07-28
+ORD000843,CUST00639,Europe,Books,Mystery Novel,17.75,2024-01-22
+ORD000574,CUST00586,Asia Pacific,Home & Kitchen,Coffee Maker,19.19,2024-12-29
+ORD000221,CUST00066,Europe,Electronics,Wireless Earbuds,146.73,2024-04-09
+ORD000613,CUST00199,North America,Home & Kitchen,Storage Containers,108.26,2024-04-15
+ORD000561,CUST00045,South America,Grocery,Pasta Pack,10.05,2024-08-04
+ORD000875,CUST00019,North America,Toys & Games,Action Figure,59.36,2024-11-06
+ORD000419,CUST00385,North America,Sports & Outdoors,Hiking Backpack,144.56,2024-02-07
+ORD000529,CUST00143,Europe,Electronics,Bluetooth Speaker,214.07,2024-09-09
+ORD000742,CUST00515,North America,Sports & Outdoors,Resistance Bands,40.47,2024-01-19
+ORD000974,CUST00003,North America,Electronics,Laptop Stand,192.57,2024-12-03
+ORD000314,CUST00157,Europe,Grocery,Herbal Tea,17.31,2024-12-18
+ORD000059,CUST00584,South America,Toys & Games,Remote Control Car,11.98,2024-06-19
+ORD000233,CUST00153,Asia Pacific,Clothing,Running Shoes,86.28,2024-01-27
+ORD000947,CUST00045,Europe,Sports & Outdoors,Resistance Bands,152.57,2024-02-28
+ORD000846,CUST00066,North America,Clothing,Denim Jacket,50.3,2024-08-31
+ORD000692,CUST00237,North America,Clothing,Cotton T-Shirt,41.32,2024-04-11
+ORD000733,CUST00367,South America,Clothing,Denim Jacket,58.39,2024-10-12
+ORD000031,CUST00580,North America,Clothing,Wool Sweater,37.49,2024-03-08
+ORD000774,CUST00279,Europe,Home & Kitchen,Non-stick Pan,63.35,2024-05-26
+ORD000817,CUST00577,Europe,Clothing,Cotton T-Shirt,84.12,2024-10-02
+ORD000078,CUST00510,North America,Toys & Games,Action Figure,47.16,2024-10-12
+ORD000182,CUST00006,North America,Home & Kitchen,Coffee Maker,129.76,2024-02-20
+ORD000351,CUST00534,Europe,Clothing,Cotton T-Shirt,93.31,2024-10-23
+ORD000895,CUST00009,North America,Sports & Outdoors,Hiking Backpack,60.52,2024-04-02
+ORD000338,CUST00420,North America,Books,Sci-Fi Anthology,34.46,2024-09-20
+ORD000883,CUST00351,North America,Beauty,Face Moisturizer,42.88,2024-08-19
+ORD000653,CUST00312,North America,Sports & Outdoors,Resistance Bands,118.27,2024-04-12
+ORD000940,CUST00581,Europe,Beauty,Sunscreen SPF50,20.28,2024-12-06
+ORD000839,CUST00472,Europe,Toys & Games,Board Game,49.06,2024-12-19
+ORD000036,CUST00078,Asia Pacific,Home & Kitchen,Table Lamp,23.71,2024-11-29
+ORD000768,CUST00046,North America,Grocery,Herbal Tea,26.36,2024-06-10
+ORD000972,CUST00536,Europe,Clothing,Cotton T-Shirt,28.32,2024-02-09
+ORD000443,CUST00402,North America,Home & Kitchen,Storage Containers,78.42,2024-02-12
+ORD000992,CUST00502,Europe,Sports & Outdoors,Water Bottle,55.23,2024-02-07
+ORD000123,CUST00098,Europe,Home & Kitchen,Table Lamp,96.94,2024-11-08
+ORD000782,CUST00037,Europe,Beauty,Lipstick,23.37,2024-05-25
+ORD000390,CUST00326,South America,Clothing,Cotton T-Shirt,83.64,2024-11-28
+ORD000339,CUST00123,North America,Electronics,Bluetooth Speaker,135.04,2024-05-07
+ORD000622,CUST00592,Asia Pacific,Clothing,Running Shoes,59.73,2024-02-29
+ORD000899,CUST00357,North America,Home & Kitchen,Table Lamp,98.01,2024-04-16
+ORD000118,CUST00018,North America,Clothing,Wool Sweater,61.25,2024-04-04
+ORD001000,CUST00566,Europe,Toys & Games,Action Figure,28.07,2024-07-15
+ORD000983,CUST00389,South America,Home & Kitchen,Knife Set,56.9,2024-05-16
+ORD000859,CUST00087,North America,Grocery,Organic Coffee,20.55,2024-05-18
+ORD000524,CUST00354,North America,Toys & Games,Puzzle Set,14.69,2024-08-29
+ORD000421,CUST00200,North America,Grocery,Herbal Tea,28.75,2024-02-13
+ORD000302,CUST00052,North America,Grocery,Granola Bars,24.95,2024-06-06
+ORD000487,CUST00290,Europe,Sports & Outdoors,Camping Tent,74.47,2024-05-17
+ORD000829,CUST00413,Asia Pacific,Electronics,Bluetooth Speaker,150.99,2024-09-15
+ORD000919,CUST00060,Europe,Toys & Games,Puzzle Set,15.3,2024-03-17
+ORD000624,CUST00123,Asia Pacific,Grocery,Olive Oil,40.14,2024-02-17
+ORD000240,CUST00655,North America,Clothing,Denim Jacket,31.27,2024-05-31
+ORD000630,CUST00020,North America,Electronics,Smartphone Case,174.09,2024-01-07
+ORD000366,CUST00319,North America,Clothing,Wool Sweater,97.51,2024-06-12
+ORD000948,CUST00350,North America,Books,Sci-Fi Anthology,13.64,2024-07-26
+ORD000515,CUST00647,North America,Books,Mystery Novel,8.7,2024-02-03
+ORD000578,CUST00426,North America,Home & Kitchen,Storage Containers,34.86,2024-08-30
+ORD000267,CUST00053,North America,Toys & Games,Puzzle Set,31.86,2024-07-07
+ORD000658,CUST00033,Europe,Electronics,Bluetooth Speaker,246.38,2024-12-15
+ORD000597,CUST00245,Asia Pacific,Books,Children's Storybook,10.28,2024-04-09
+ORD000129,CUST00011,Europe,Books,Children's Storybook,37.48,2024-08-12
+ORD000271,CUST00018,North America,Clothing,Wool Sweater,78.28,2024-08-06
+ORD000673,CUST00549,South America,Electronics,Smartphone Case,128.05,2024-11-24
+ORD000027,CUST00591,North America,Electronics,Laptop Stand,196.16,2024-12-19
+ORD000589,CUST00499,Asia Pacific,Toys & Games,Action Figure,42.33,2024-06-12
+ORD000996,CUST00019,North America,Clothing,Cotton T-Shirt,22.66,2024-10-19
+ORD000672,CUST00411,North America,Clothing,Summer Dress,70.7,2024-10-14
+ORD000638,CUST00226,Asia Pacific,Home & Kitchen,Non-stick Pan,147.29,2024-11-30
+ORD000745,CUST00012,North America,Clothing,Summer Dress,111.08,2024-06-27
+ORD000995,CUST00396,North America,Home & Kitchen,Storage Containers,40.57,2024-11-25
+ORD000200,CUST00012,Asia Pacific,Electronics,Wireless Earbuds,193.81,2024-07-09
+ORD000403,CUST00086,North America,Toys & Games,Board Game,69.17,2024-06-11
+ORD000872,CUST00405,Europe,Electronics,Wireless Earbuds,152.61,2024-03-01
+ORD000364,CUST00544,North America,Beauty,Perfume,22.81,2024-06-02
+ORD000331,CUST00117,Europe,Beauty,Face Moisturizer,51.7,2024-04-28
+ORD000370,CUST00058,Europe,Beauty,Lipstick,14.2,2024-04-07
+ORD000350,CUST00230,North America,Home & Kitchen,Non-stick Pan,88.23,2024-12-10
+ORD000496,CUST00012,North America,Clothing,Running Shoes,49.37,2024-10-10
+ORD000050,CUST00099,Europe,Grocery,Pasta Pack,15.58,2024-02-24
+ORD000933,CUST00652,Asia Pacific,Books,Cookbook,10.28,2024-11-09
+ORD000139,CUST00238,North America,Home & Kitchen,Table Lamp,115.9,2024-11-16
+ORD000323,CUST00060,Europe,Clothing,Running Shoes,73.85,2024-05-20
+ORD000923,CUST00063,North America,Electronics,Wireless Earbuds,201.11,2024-02-17
+ORD000623,CUST00017,Europe,Electronics,Bluetooth Speaker,175.94,2024-03-28
+ORD000957,CUST00378,Europe,Home & Kitchen,Storage Containers,86.32,2024-12-05
+ORD000049,CUST00558,Europe,Books,Children's Storybook,8.25,2024-10-10
+ORD000893,CUST00367,North America,Books,Mystery Novel,32.58,2024-06-20
+ORD000867,CUST00036,Asia Pacific,Sports & Outdoors,Yoga Mat,134.62,2024-09-23
+ORD000264,CUST00240,Europe,Books,Cookbook,10.02,2024-08-22
+ORD000040,CUST00410,North America,Electronics,Bluetooth Speaker,243.12,2024-10-23
+ORD000150,CUST00008,Europe,Sports & Outdoors,Hiking Backpack,76.86,2024-12-05
+ORD000327,CUST00439,North America,Books,Children's Storybook,15.66,2024-01-26
+ORD000502,CUST00202,South America,Grocery,Pasta Pack,33.47,2024-02-17
+ORD000842,CUST00199,Asia Pacific,Beauty,Shampoo Set,58.09,2024-11-04
+ORD000691,CUST00020,Europe,Books,Mystery Novel,35.24,2024-10-08
+ORD000378,CUST00584,Europe,Electronics,Laptop Stand,235.65,2024-10-23
+ORD000337,CUST00398,Europe,Electronics,Smartphone Case,203.97,2024-10-17
+ORD000028,CUST00057,North America,Grocery,Olive Oil,22.52,2024-09-21
+ORD000319,CUST00632,Asia Pacific,Sports & Outdoors,Yoga Mat,130.57,2024-09-22
+ORD000408,CUST00619,South America,Books,Cookbook,29.93,2024-03-27
+ORD000070,CUST00277,Europe,Clothing,Running Shoes,73.21,2024-04-08
+ORD000858,CUST00294,North America,Electronics,Bluetooth Speaker,203.62,2024-11-12
+ORD000444,CUST00327,Europe,Clothing,Cotton T-Shirt,43.86,2024-10-02
+ORD000749,CUST00078,North America,Clothing,Wool Sweater,95.85,2024-06-22
+ORD000944,CUST00013,North America,Home & Kitchen,Table Lamp,67.88,2024-11-13
+ORD000784,CUST00147,Asia Pacific,Beauty,Sunscreen SPF50,73.32,2024-10-03
+ORD000863,CUST00637,North America,Clothing,Summer Dress,47.02,2024-09-07
+ORD000009,CUST00505,South America,Beauty,Face Moisturizer,33.47,2024-08-20
+ORD000388,CUST00019,North America,Electronics,Bluetooth Speaker,166.35,2024-05-09
+ORD000192,CUST00008,Europe,Beauty,Perfume,28.21,2024-11-25
+ORD000580,CUST00016,North America,Electronics,Laptop Stand,201.56,2024-04-19
+ORD000391,CUST00494,North America,Clothing,Summer Dress,64.98,2024-11-22
+ORD000133,CUST00700,Europe,Clothing,Cotton T-Shirt,95.13,2024-03-30
+ORD000746,CUST00139,Asia Pacific,Clothing,Denim Jacket,62.75,2024-07-25
+ORD000532,CUST00134,North America,Toys & Games,Puzzle Set,14.76,2024-03-16
+ORD000637,CUST00314,North America,Toys & Games,Building Blocks,46.73,2024-10-20
+ORD000298,CUST00032,Asia Pacific,Clothing,Running Shoes,117.41,2024-03-07
+ORD000186,CUST00517,North America,Toys & Games,Action Figure,26.57,2024-04-20
+ORD000645,CUST00019,Europe,Electronics,USB-C Cable,77.43,2024-04-07
+ORD000320,CUST00060,North America,Sports & Outdoors,Resistance Bands,75.31,2024-03-29
+ORD000994,CUST00047,North America,Grocery,Pasta Pack,29.41,2024-04-01
+ORD000690,CUST00573,North America,Electronics,Laptop Stand,213.64,2024-04-09
+ORD000662,CUST00637,North America,Grocery,Olive Oil,43.63,2024-01-28
+ORD000854,CUST00020,North America,Grocery,Pasta Pack,39.75,2024-05-27
+ORD000325,CUST00095,North America,Sports & Outdoors,Water Bottle,167.23,2024-12-01
+ORD000815,CUST00039,North America,Home & Kitchen,Knife Set,85.82,2024-08-20
+ORD000767,CUST00318,Asia Pacific,Electronics,Bluetooth Speaker,134.06,2024-01-05
+ORD000358,CUST00205,North America,Clothing,Wool Sweater,51.35,2024-05-21
+ORD000064,CUST00184,South America,Home & Kitchen,Non-stick Pan,26.15,2024-05-13
+ORD000780,CUST00485,North America,Clothing,Cotton T-Shirt,21.7,2024-08-30
+ORD000154,CUST00132,Europe,Books,Self-Help Guide,35.27,2024-09-30
+ORD000135,CUST00386,North America,Electronics,Smartphone Case,119.84,2024-06-13
+ORD000601,CUST00689,North America,Electronics,USB-C Cable,90.18,2024-03-27
+ORD000808,CUST00160,North America,Electronics,Wireless Earbuds,180.91,2024-06-22
+ORD000014,CUST00086,North America,Grocery,Olive Oil,13.51,2024-09-12
+ORD000560,CUST00529,Europe,Books,Mystery Novel,38.38,2024-08-17
+ORD000521,CUST00170,North America,Books,Children's Storybook,15.97,2024-10-05
+ORD000287,CUST00549,North America,Grocery,Organic Coffee,23.0,2024-12-14
+ORD000660,CUST00006,Asia Pacific,Electronics,Laptop Stand,220.27,2024-11-27
+ORD000633,CUST00017,Europe,Clothing,Running Shoes,84.69,2024-11-24
+ORD000555,CUST00051,North America,Home & Kitchen,Knife Set,41.67,2024-05-17
+ORD000452,CUST00354,North America,Grocery,Olive Oil,16.57,2024-05-16
+ORD000473,CUST00348,North America,Grocery,Olive Oil,36.64,2024-05-06
+ORD000716,CUST00252,Europe,Books,Sci-Fi Anthology,8.72,2024-01-23
+ORD000968,CUST00527,North America,Electronics,Smartphone Case,147.71,2024-01-06
+ORD000820,CUST00559,North America,Beauty,Shampoo Set,15.17,2024-04-08
+ORD000964,CUST00194,North America,Clothing,Cotton T-Shirt,74.66,2024-12-26
+ORD000096,CUST00056,North America,Electronics,Bluetooth Speaker,134.18,2024-02-28
+ORD000828,CUST00198,North America,Books,Self-Help Guide,29.58,2024-12-25
+ORD000071,CUST00202,South America,Sports & Outdoors,Camping Tent,115.41,2024-06-03
+ORD000960,CUST00032,Asia Pacific,Sports & Outdoors,Camping Tent,26.22,2024-11-24
+ORD000237,CUST00410,North America,Sports & Outdoors,Yoga Mat,64.01,2024-07-11
+ORD000285,CUST00333,North America,Grocery,Pasta Pack,29.48,2024-02-14
+ORD000484,CUST00426,North America,Sports & Outdoors,Camping Tent,21.73,2024-02-14
+ORD000481,CUST00453,Europe,Home & Kitchen,Storage Containers,21.54,2024-10-01
+ORD000688,CUST00317,Europe,Electronics,Wireless Earbuds,156.0,2024-07-20
+ORD000328,CUST00417,North America,Books,Mystery Novel,11.21,2024-06-18
+ORD000800,CUST00010,Europe,Electronics,USB-C Cable,69.95,2024-05-08
+ORD000004,CUST00309,North America,Books,Mystery Novel,32.28,2024-03-22
+ORD000649,CUST00435,North America,Toys & Games,Building Blocks,40.99,2024-11-03
+ORD000741,CUST00391,North America,Electronics,Laptop Stand,92.92,2024-01-18
+ORD000629,CUST00366,Asia Pacific,Beauty,Shampoo Set,40.37,2024-09-06
+ORD000965,CUST00157,Europe,Grocery,Organic Coffee,10.68,2024-09-26
+ORD000172,CUST00627,South America,Grocery,Olive Oil,34.86,2024-06-22
+ORD000269,CUST00267,North America,Beauty,Perfume,25.87,2024-02-12
+ORD000244,CUST00422,North America,Home & Kitchen,Knife Set,115.33,2024-08-17
+ORD000156,CUST00372,North America,Sports & Outdoors,Water Bottle,179.57,2024-02-16
+ORD000743,CUST00150,Europe,Grocery,Organic Coffee,44.87,2024-07-23
+ORD000905,CUST00096,North America,Sports & Outdoors,Water Bottle,67.31,2024-07-30
+ORD000937,CUST00126,North America,Toys & Games,Action Figure,16.28,2024-08-26
+ORD000963,CUST00050,Europe,Books,Cookbook,30.79,2024-05-17
+ORD000533,CUST00345,Asia Pacific,Toys & Games,Action Figure,78.85,2024-02-07
+ORD000418,CUST00218,North America,Sports & Outdoors,Hiking Backpack,125.06,2024-03-12
+ORD000360,CUST00369,South America,Beauty,Shampoo Set,21.81,2024-02-21
+ORD000218,CUST00188,Europe,Clothing,Wool Sweater,17.19,2024-06-15
+ORD000454,CUST00631,South America,Beauty,Shampoo Set,55.0,2024-03-08
+ORD000851,CUST00196,North America,Electronics,Smartphone Case,160.65,2024-01-13
+ORD000425,CUST00335,North America,Clothing,Summer Dress,87.5,2024-03-18
+ORD000712,CUST00285,North America,Beauty,Sunscreen SPF50,61.11,2024-11-05
+ORD000655,CUST00679,North America,Home & Kitchen,Knife Set,109.45,2024-06-29
+ORD000111,CUST00017,North America,Sports & Outdoors,Water Bottle,123.55,2024-07-07
+ORD000389,CUST00542,North America,Clothing,Running Shoes,115.73,2024-08-23
+ORD000480,CUST00003,North America,Beauty,Sunscreen SPF50,41.94,2024-11-17
+ORD000392,CUST00002,North America,Home & Kitchen,Storage Containers,100.29,2024-06-18
+ORD000414,CUST00655,North America,Clothing,Wool Sweater,116.72,2024-05-29
+ORD000586,CUST00002,South America,Grocery,Olive Oil,27.46,2024-10-31
+ORD000459,CUST00386,Europe,Beauty,Perfume,34.65,2024-08-07
+ORD000495,CUST00272,Asia Pacific,Electronics,Laptop Stand,245.91,2024-07-24
+ORD000818,CUST00545,North America,Sports & Outdoors,Resistance Bands,37.89,2024-05-24
+ORD000457,CUST00187,Europe,Sports & Outdoors,Water Bottle,88.39,2024-09-06
+ORD000946,CUST00349,Europe,Home & Kitchen,Knife Set,86.23,2024-04-30
+ORD000467,CUST00351,North America,Home & Kitchen,Non-stick Pan,107.38,2024-03-02
+ORD000850,CUST00085,North America,Sports & Outdoors,Resistance Bands,27.05,2024-12-09
+ORD000367,CUST00439,North America,Clothing,Denim Jacket,94.21,2024-08-30
+ORD000916,CUST00628,Europe,Books,Sci-Fi Anthology,12.97,2024-08-23
+ORD000727,CUST00593,Europe,Home & Kitchen,Storage Containers,120.54,2024-07-14
+ORD000791,CUST00312,North America,Beauty,Sunscreen SPF50,34.45,2024-03-24
+ORD000962,CUST00048,North America,Books,Sci-Fi Anthology,20.31,2024-04-25
+ORD000507,CUST00071,South America,Electronics,Laptop Stand,53.97,2024-02-24
+ORD000262,CUST00148,North America,Clothing,Cotton T-Shirt,96.01,2024-06-19
+ORD000310,CUST00359,North America,Electronics,Wireless Earbuds,60.15,2024-06-19
+ORD000973,CUST00573,North America,Electronics,Smartphone Case,90.55,2024-05-11
+ORD000511,CUST00034,Europe,Grocery,Granola Bars,25.54,2024-12-12
+ORD000252,CUST00162,North America,Electronics,Bluetooth Speaker,36.2,2024-02-20
+ORD000402,CUST00409,North America,Books,Cookbook,30.82,2024-02-12
+ORD000202,CUST00023,North America,Sports & Outdoors,Hiking Backpack,157.84,2024-01-27
+ORD000263,CUST00028,North America,Clothing,Denim Jacket,102.19,2024-12-16
+ORD000744,CUST00144,North America,Books,Children's Storybook,8.49,2024-12-26
+ORD000772,CUST00136,North America,Clothing,Summer Dress,35.89,2024-10-21
+ORD000347,CUST00014,Europe,Electronics,Laptop Stand,228.64,2024-04-13
+ORD000409,CUST00030,North America,Home & Kitchen,Non-stick Pan,33.41,2024-05-21
+ORD000276,CUST00152,South America,Electronics,Bluetooth Speaker,179.39,2024-07-08
+ORD000043,CUST00012,North America,Beauty,Sunscreen SPF50,16.03,2024-10-18
+ORD000012,CUST00041,North America,Grocery,Herbal Tea,13.78,2024-06-15
+ORD000640,CUST00521,South America,Books,Children's Storybook,25.99,2024-12-01
+ORD000143,CUST00237,North America,Toys & Games,Remote Control Car,84.61,2024-05-29
+ORD000674,CUST00368,Europe,Grocery,Olive Oil,20.25,2024-02-28
+ORD000593,CUST00149,North America,Electronics,Laptop Stand,69.85,2024-02-19
+ORD000270,CUST00466,North America,Books,Cookbook,25.46,2024-06-13
+ORD000525,CUST00296,Europe,Grocery,Pasta Pack,9.01,2024-12-02
+ORD000884,CUST00233,Asia Pacific,Beauty,Shampoo Set,42.75,2024-07-21
+ORD000621,CUST00070,South America,Clothing,Wool Sweater,20.26,2024-03-30
+ORD000513,CUST00484,North America,Home & Kitchen,Coffee Maker,27.0,2024-02-01
+ORD000029,CUST00229,North America,Electronics,Wireless Earbuds,159.43,2024-04-27
+ORD000168,CUST00078,Europe,Toys & Games,Board Game,60.26,2024-11-17
+ORD000048,CUST00643,Asia Pacific,Beauty,Lipstick,27.09,2024-08-12
+ORD000704,CUST00016,North America,Electronics,Bluetooth Speaker,216.56,2024-11-10
+ORD000229,CUST00340,South America,Sports & Outdoors,Yoga Mat,87.56,2024-10-19
+ORD000723,CUST00069,North America,Electronics,Bluetooth Speaker,145.0,2024-09-15
+ORD000641,CUST00418,South America,Clothing,Cotton T-Shirt,100.74,2024-08-20
+ORD000206,CUST00319,Europe,Sports & Outdoors,Water Bottle,16.86,2024-05-19
+ORD000833,CUST00637,North America,Grocery,Granola Bars,43.39,2024-01-01
+ORD000158,CUST00099,North America,Clothing,Cotton T-Shirt,45.8,2024-07-10
+ORD000493,CUST00316,Asia Pacific,Sports & Outdoors,Hiking Backpack,49.72,2024-05-07
+ORD000541,CUST00547,Europe,Sports & Outdoors,Water Bottle,87.03,2024-05-15
+ORD000927,CUST00236,Europe,Home & Kitchen,Non-stick Pan,53.54,2024-01-23
+ORD000072,CUST00190,Asia Pacific,Clothing,Denim Jacket,60.14,2024-10-23
+ORD000021,CUST00039,North America,Sports & Outdoors,Water Bottle,175.28,2024-04-01
+ORD000246,CUST00157,South America,Grocery,Granola Bars,35.78,2024-07-14
+ORD000652,CUST00030,Europe,Beauty,Perfume,28.03,2024-12-25
+ORD000926,CUST00548,South America,Sports & Outdoors,Camping Tent,46.47,2024-01-19
+ORD000353,CUST00689,North America,Clothing,Denim Jacket,95.74,2024-11-24
+ORD000174,CUST00683,South America,Toys & Games,Puzzle Set,17.22,2024-07-21
+ORD000227,CUST00013,North America,Electronics,Smartphone Case,212.97,2024-02-09
+ORD000374,CUST00483,Europe,Beauty,Perfume,55.15,2024-07-22
+ORD000290,CUST00036,North America,Clothing,Denim Jacket,51.33,2024-09-22
+ORD000410,CUST00203,North America,Electronics,Smartphone Case,237.73,2024-11-16
+ORD000458,CUST00122,North America,Toys & Games,Building Blocks,68.47,2024-08-22
+ORD000479,CUST00428,Europe,Grocery,Organic Coffee,5.67,2024-02-04
+ORD000294,CUST00008,Asia Pacific,Electronics,Laptop Stand,88.22,2024-04-17
+ORD000387,CUST00301,North America,Home & Kitchen,Storage Containers,122.86,2024-04-01
+ORD000708,CUST00059,Asia Pacific,Clothing,Wool Sweater,111.38,2024-01-24
+ORD000894,CUST00327,Europe,Electronics,Bluetooth Speaker,69.35,2024-12-30
+ORD000539,CUST00114,Asia Pacific,Books,Children's Storybook,11.33,2024-09-11
+ORD000635,CUST00644,North America,Home & Kitchen,Storage Containers,131.72,2024-02-08
+ORD000332,CUST00301,Europe,Grocery,Pasta Pack,21.72,2024-03-31
+ORD000170,CUST00016,North America,Sports & Outdoors,Camping Tent,45.73,2024-10-03
+ORD000260,CUST00012,North America,Home & Kitchen,Table Lamp,87.58,2024-07-18
+ORD000280,CUST00093,Asia Pacific,Home & Kitchen,Non-stick Pan,29.0,2024-02-07
+ORD000836,CUST00548,Asia Pacific,Home & Kitchen,Table Lamp,139.63,2024-03-20
+ORD000003,CUST00065,North America,Electronics,Bluetooth Speaker,187.52,2024-12-25
+ORD000080,CUST00353,South America,Beauty,Perfume,62.61,2024-09-15
+ORD000757,CUST00022,North America,Grocery,Granola Bars,29.55,2024-10-04
+ORD000235,CUST00093,Europe,Sports & Outdoors,Resistance Bands,158.71,2024-06-19
+ORD000075,CUST00419,North America,Electronics,Wireless Earbuds,40.17,2024-08-31
+ORD000966,CUST00686,South America,Toys & Games,Remote Control Car,51.36,2024-09-24
+ORD000256,CUST00508,North America,Electronics,Bluetooth Speaker,122.36,2024-11-14
+ORD000860,CUST00411,Asia Pacific,Clothing,Cotton T-Shirt,17.0,2024-11-28
+ORD000775,CUST00239,South America,Beauty,Lipstick,36.26,2024-11-09
+ORD000063,CUST00183,North America,Electronics,Smartphone Case,107.25,2024-09-17
+ORD000537,CUST00413,Asia Pacific,Clothing,Running Shoes,28.37,2024-01-01
+ORD000571,CUST00108,Asia Pacific,Beauty,Face Moisturizer,73.16,2024-04-26
+ORD000084,CUST00115,North America,Electronics,Bluetooth Speaker,114.27,2024-03-19
+ORD000603,CUST00385,North America,Grocery,Granola Bars,5.19,2024-09-30
+ORD000230,CUST00401,North America,Home & Kitchen,Coffee Maker,144.08,2024-08-18
+ORD000503,CUST00008,North America,Beauty,Sunscreen SPF50,54.96,2024-07-09
+ORD000809,CUST00641,South America,Books,Mystery Novel,19.38,2024-03-19
+ORD000890,CUST00612,Asia Pacific,Beauty,Face Moisturizer,24.76,2024-12-20
+ORD000472,CUST00431,Asia Pacific,Electronics,Wireless Earbuds,60.8,2024-03-04
+ORD000938,CUST00329,North America,Toys & Games,Remote Control Car,17.78,2024-06-07
+ORD000018,CUST00380,Europe,Home & Kitchen,Non-stick Pan,63.87,2024-11-01
+ORD000558,CUST00544,North America,Home & Kitchen,Storage Containers,90.18,2024-04-30
+ORD000689,CUST00302,South America,Clothing,Running Shoes,37.23,2024-11-26
+ORD000106,CUST00555,North America,Beauty,Shampoo Set,58.28,2024-10-18
+ORD000095,CUST00067,North America,Grocery,Organic Coffee,35.17,2024-05-06
+ORD000614,CUST00438,Europe,Clothing,Cotton T-Shirt,84.56,2024-05-18
+ORD000506,CUST00572,Asia Pacific,Clothing,Running Shoes,48.4,2024-05-19
+ORD000681,CUST00010,Europe,Books,Children's Storybook,34.29,2024-05-12
+ORD000523,CUST00136,Europe,Clothing,Running Shoes,33.88,2024-06-12
+ORD000295,CUST00500,North America,Books,Sci-Fi Anthology,36.45,2024-10-06
+ORD000163,CUST00099,South America,Sports & Outdoors,Hiking Backpack,154.01,2024-04-11
+ORD000526,CUST00074,North America,Toys & Games,Building Blocks,71.12,2024-04-22
+ORD000060,CUST00513,North America,Sports & Outdoors,Camping Tent,56.82,2024-12-25
+ORD000920,CUST00091,North America,Grocery,Herbal Tea,38.7,2024-10-19
+ORD000489,CUST00291,North America,Grocery,Organic Coffee,24.85,2024-09-18
+ORD000731,CUST00287,North America,Electronics,Smartphone Case,119.95,2024-02-24
+ORD000407,CUST00583,North America,Home & Kitchen,Non-stick Pan,111.48,2024-10-13
+ORD000990,CUST00497,Europe,Toys & Games,Board Game,81.68,2024-12-22
+ORD000563,CUST00115,Europe,Toys & Games,Building Blocks,41.05,2024-07-22
+ORD000355,CUST00164,Europe,Sports & Outdoors,Resistance Bands,34.34,2024-06-27
+ORD000363,CUST00071,Asia Pacific,Books,Children's Storybook,27.13,2024-12-10
+ORD000728,CUST00142,Asia Pacific,Beauty,Perfume,14.55,2024-03-09
+ORD000993,CUST00090,North America,Clothing,Cotton T-Shirt,42.12,2024-05-15
+ORD000094,CUST00079,North America,Electronics,Laptop Stand,41.46,2024-06-28
+ORD000803,CUST00247,Europe,Clothing,Running Shoes,31.65,2024-01-22
+ORD000275,CUST00424,North America,Electronics,Bluetooth Speaker,201.27,2024-07-06
+ORD000365,CUST00089,Europe,Books,Cookbook,28.03,2024-08-06
+ORD000980,CUST00482,Europe,Home & Kitchen,Storage Containers,105.69,2024-07-18
+ORD000971,CUST00082,Europe,Books,Children's Storybook,9.65,2024-05-29
+ORD000317,CUST00034,Europe,Electronics,Wireless Earbuds,71.97,2024-08-13
+ORD000636,CUST00487,North America,Clothing,Running Shoes,20.29,2024-04-24
+ORD000576,CUST00593,North America,Electronics,Wireless Earbuds,130.42,2024-07-03
+ORD000721,CUST00357,Europe,Toys & Games,Board Game,59.86,2024-09-18
+ORD000146,CUST00505,Asia Pacific,Clothing,Summer Dress,43.05,2024-01-02
+ORD000740,CUST00369,North America,Sports & Outdoors,Resistance Bands,21.65,2024-03-30
+ORD000837,CUST00017,North America,Electronics,Smartphone Case,110.76,2024-10-25
+ORD000679,CUST00303,Europe,Grocery,Granola Bars,30.86,2024-02-06
+ORD000433,CUST00350,North America,Sports & Outdoors,Camping Tent,58.76,2024-12-26
+ORD000609,CUST00041,Asia Pacific,Toys & Games,Building Blocks,28.27,2024-03-08
+ORD000148,CUST00304,North America,Books,Children's Storybook,20.07,2024-06-13
+ORD000570,CUST00482,Asia Pacific,Beauty,Face Moisturizer,30.64,2024-06-04
+ORD000191,CUST00226,North America,Books,Sci-Fi Anthology,24.12,2024-11-10
+ORD000248,CUST00591,North America,Home & Kitchen,Knife Set,87.64,2024-02-22
+ORD000577,CUST00446,North America,Toys & Games,Action Figure,41.76,2024-03-04
+ORD000912,CUST00197,North America,Books,Cookbook,8.36,2024-04-13
+ORD000908,CUST00094,Europe,Clothing,Summer Dress,75.39,2024-11-15
+ORD000088,CUST00488,Asia Pacific,Grocery,Granola Bars,26.53,2024-10-06
+ORD000157,CUST00214,North America,Books,Mystery Novel,22.2,2024-12-21
+ORD000405,CUST00018,North America,Home & Kitchen,Table Lamp,87.66,2024-07-27
+ORD000460,CUST00550,North America,Clothing,Running Shoes,50.46,2024-10-22
+ORD000531,CUST00004,North America,Clothing,Summer Dress,36.15,2024-03-07
+ORD000312,CUST00114,North America,Books,Self-Help Guide,27.0,2024-09-16
+ORD000910,CUST00264,North America,Books,Self-Help Guide,39.34,2024-01-01
+ORD000732,CUST00037,Europe,Clothing,Summer Dress,59.47,2024-07-06
+ORD000562,CUST00014,Europe,Electronics,Bluetooth Speaker,213.5,2024-05-12
+ORD000335,CUST00093,South America,Home & Kitchen,Storage Containers,134.5,2024-03-09
+ORD000682,CUST00191,North America,Home & Kitchen,Knife Set,12.36,2024-12-10
+ORD000900,CUST00009,North America,Sports & Outdoors,Yoga Mat,36.42,2024-01-17
+ORD000620,CUST00657,Europe,Electronics,Wireless Earbuds,229.05,2024-11-25
+ORD000238,CUST00394,North America,Electronics,Laptop Stand,50.56,2024-12-09
+ORD000023,CUST00162,North America,Grocery,Herbal Tea,41.74,2024-11-02
+ORD000566,CUST00342,South America,Electronics,Wireless Earbuds,153.79,2024-02-21
+ORD000194,CUST00262,Asia Pacific,Electronics,Wireless Earbuds,100.86,2024-03-16
+ORD000299,CUST00495,North America,Electronics,Bluetooth Speaker,132.62,2024-05-16
+ORD000022,CUST00277,North America,Books,Children's Storybook,27.49,2024-03-19
+ORD000455,CUST00078,Europe,Toys & Games,Remote Control Car,49.16,2024-10-22
+ORD000431,CUST00125,North America,Home & Kitchen,Storage Containers,98.17,2024-04-05
+ORD000356,CUST00022,South America,Clothing,Denim Jacket,91.43,2024-04-24
+ORD000760,CUST00486,North America,Home & Kitchen,Storage Containers,76.96,2024-10-03
+ORD000870,CUST00059,North America,Home & Kitchen,Coffee Maker,130.76,2024-06-07
+ORD000810,CUST00444,Europe,Electronics,Bluetooth Speaker,99.68,2024-10-12
+ORD000301,CUST00077,Asia Pacific,Electronics,Smartphone Case,235.43,2024-06-09
+ORD000024,CUST00119,North America,Beauty,Lipstick,24.04,2024-05-03
+ORD000534,CUST00162,South America,Clothing,Cotton T-Shirt,50.34,2024-06-14
+ORD000582,CUST00004,Europe,Toys & Games,Building Blocks,47.93,2024-03-08
+ORD000155,CUST00167,North America,Sports & Outdoors,Hiking Backpack,158.56,2024-01-19
+ORD000509,CUST00229,North America,Beauty,Face Moisturizer,18.56,2024-12-17
+ORD000152,CUST00126,North America,Beauty,Face Moisturizer,43.24,2024-08-21
+ORD000115,CUST00680,North America,Clothing,Cotton T-Shirt,102.43,2024-05-31
+ORD000283,CUST00453,Asia Pacific,Books,Self-Help Guide,24.28,2024-03-03
+ORD000834,CUST00465,South America,Books,Children's Storybook,12.32,2024-06-03
+ORD000112,CUST00248,North America,Home & Kitchen,Table Lamp,56.31,2024-12-25
+ORD000079,CUST00078,Asia Pacific,Home & Kitchen,Storage Containers,103.46,2024-10-13
+ORD000296,CUST00095,South America,Home & Kitchen,Storage Containers,51.64,2024-02-07
+ORD000816,CUST00001,Europe,Clothing,Denim Jacket,107.71,2024-11-13
+ORD000401,CUST00262,North America,Grocery,Granola Bars,12.43,2024-10-26
+ORD000599,CUST00030,North America,Home & Kitchen,Table Lamp,135.0,2024-08-22
+ORD000090,CUST00175,Europe,Toys & Games,Board Game,77.24,2024-03-06
+ORD000700,CUST00014,North America,Electronics,Laptop Stand,168.96,2024-10-24
+ORD000193,CUST00670,North America,Home & Kitchen,Storage Containers,69.68,2024-02-25
+ORD000068,CUST00431,South America,Sports & Outdoors,Camping Tent,73.19,2024-02-05
+ORD000377,CUST00496,North America,Electronics,Smartphone Case,121.06,2024-10-15
+ORD000463,CUST00693,North America,Grocery,Pasta Pack,40.29,2024-06-03
+ORD000300,CUST00227,North America,Electronics,USB-C Cable,220.12,2024-08-02
+ORD000546,CUST00083,North America,Clothing,Wool Sweater,31.89,2024-02-08
+ORD000545,CUST00068,North America,Toys & Games,Building Blocks,33.59,2024-06-12
+ORD000647,CUST00234,Europe,Home & Kitchen,Storage Containers,10.61,2024-01-25
+ORD000126,CUST00351,North America,Clothing,Running Shoes,88.81,2024-08-20
+ORD000540,CUST00031,Europe,Clothing,Running Shoes,32.63,2024-02-15
+ORD000514,CUST00555,South America,Electronics,USB-C Cable,111.89,2024-11-18
+ORD000498,CUST00239,Europe,Home & Kitchen,Coffee Maker,112.54,2024-10-06
+ORD000639,CUST00004,North America,Electronics,Laptop Stand,30.04,2024-02-16
+ORD000354,CUST00682,Europe,Home & Kitchen,Storage Containers,72.8,2024-07-12
+ORD000382,CUST00043,Europe,Home & Kitchen,Table Lamp,148.65,2024-01-31
+ORD000844,CUST00115,Europe,Clothing,Denim Jacket,31.09,2024-12-10
+ORD000710,CUST00558,North America,Home & Kitchen,Coffee Maker,62.73,2024-07-12
+ORD000766,CUST00332,South America,Sports & Outdoors,Yoga Mat,133.1,2024-04-30
+ORD000434,CUST00536,North America,Electronics,Laptop Stand,71.13,2024-06-15
+ORD000516,CUST00056,Europe,Toys & Games,Building Blocks,82.41,2024-06-18
+ORD000274,CUST00153,Asia Pacific,Sports & Outdoors,Yoga Mat,35.99,2024-11-07
+ORD000362,CUST00186,North America,Electronics,Wireless Earbuds,60.83,2024-05-28
+ORD000329,CUST00457,North America,Toys & Games,Building Blocks,87.16,2024-03-21
+ORD000231,CUST00018,Asia Pacific,Clothing,Cotton T-Shirt,67.98,2024-03-29
+ORD000750,CUST00667,North America,Home & Kitchen,Table Lamp,130.68,2024-09-03
+ORD000490,CUST00150,North America,Books,Self-Help Guide,13.03,2024-02-22
+ORD000979,CUST00490,North America,Electronics,USB-C Cable,134.77,2024-08-31
+ORD000773,CUST00399,North America,Grocery,Olive Oil,19.2,2024-12-10
+ORD000825,CUST00549,North America,Electronics,Wireless Earbuds,213.58,2024-02-09
+ORD000747,CUST00335,North America,Home & Kitchen,Non-stick Pan,88.21,2024-09-14
+ORD000616,CUST00021,North America,Electronics,Bluetooth Speaker,163.98,2024-05-14
+ORD000210,CUST00509,Europe,Electronics,Wireless Earbuds,64.23,2024-11-12
+ORD000575,CUST00276,North America,Beauty,Perfume,9.94,2024-04-08
+ORD000069,CUST00657,Asia Pacific,Books,Mystery Novel,31.03,2024-06-02
+ORD000573,CUST00361,North America,Home & Kitchen,Storage Containers,113.73,2024-09-21
+ORD000180,CUST00657,Europe,Home & Kitchen,Table Lamp,113.92,2024-03-20
+ORD000376,CUST00149,North America,Home & Kitchen,Storage Containers,75.24,2024-08-28
+ORD000591,CUST00188,Europe,Books,Children's Storybook,34.11,2024-06-24
+ORD000698,CUST00224,Europe,Home & Kitchen,Non-stick Pan,34.61,2024-11-06
+ORD000686,CUST00006,North America,Electronics,USB-C Cable,205.29,2024-10-06
+ORD000981,CUST00249,North America,Beauty,Face Moisturizer,27.35,2024-08-17
+ORD000393,CUST00327,Asia Pacific,Electronics,Laptop Stand,232.21,2024-04-27
+ORD000861,CUST00173,South America,Home & Kitchen,Non-stick Pan,136.54,2024-09-05
+ORD000053,CUST00016,North America,Clothing,Cotton T-Shirt,50.02,2024-03-07
+ORD000752,CUST00529,North America,Clothing,Summer Dress,16.02,2024-05-14
+ORD000736,CUST00514,South America,Electronics,Laptop Stand,118.12,2024-06-22
+ORD000986,CUST00110,North America,Electronics,Wireless Earbuds,32.63,2024-02-20
+ORD000726,CUST00027,Europe,Toys & Games,Remote Control Car,51.76,2024-07-08
+ORD000871,CUST00433,Asia Pacific,Beauty,Sunscreen SPF50,74.71,2024-03-15
+ORD000213,CUST00424,Europe,Home & Kitchen,Knife Set,16.36,2024-07-21
+ORD000932,CUST00322,North America,Home & Kitchen,Table Lamp,54.59,2024-03-13
+ORD000556,CUST00326,North America,Sports & Outdoors,Yoga Mat,26.4,2024-06-25
+ORD000696,CUST00665,North America,Clothing,Denim Jacket,89.78,2024-11-24
+ORD000865,CUST00072,South America,Home & Kitchen,Non-stick Pan,97.61,2024-07-17
+ORD000304,CUST00342,North America,Clothing,Summer Dress,107.65,2024-11-30
+ORD000034,CUST00420,South America,Electronics,USB-C Cable,190.21,2024-02-25
+ORD000786,CUST00233,Europe,Beauty,Sunscreen SPF50,43.07,2024-11-23
+ORD000341,CUST00341,Europe,Clothing,Running Shoes,87.74,2024-02-01
+ORD000395,CUST00429,North America,Home & Kitchen,Non-stick Pan,35.11,2024-06-10
+ORD000734,CUST00255,North America,Books,Self-Help Guide,39.63,2024-10-22
+ORD000002,CUST00422,Asia Pacific,Electronics,USB-C Cable,36.99,2024-02-17
+ORD000770,CUST00434,North America,Toys & Games,Remote Control Car,77.12,2024-02-19
+ORD000380,CUST00270,Europe,Sports & Outdoors,Water Bottle,140.24,2024-09-07
+ORD000190,CUST00085,North America,Home & Kitchen,Non-stick Pan,114.39,2024-08-31
+ORD000921,CUST00361,North America,Electronics,Smartphone Case,185.16,2024-06-10
+ORD000142,CUST00039,Europe,Books,Mystery Novel,15.19,2024-02-28
+ORD000475,CUST00510,Europe,Beauty,Lipstick,21.76,2024-11-06
+ORD000705,CUST00429,Europe,Electronics,Bluetooth Speaker,69.41,2024-10-16
+ORD000025,CUST00596,South America,Electronics,USB-C Cable,209.53,2024-09-29
+ORD000598,CUST00271,Asia Pacific,Clothing,Running Shoes,58.38,2024-03-18
+ORD000585,CUST00079,North America,Sports & Outdoors,Resistance Bands,78.72,2024-02-22
+ORD000975,CUST00225,Asia Pacific,Clothing,Denim Jacket,65.92,2024-09-27
+ORD000166,CUST00584,Europe,Grocery,Herbal Tea,34.81,2024-05-26
+ORD000313,CUST00553,North America,Sports & Outdoors,Water Bottle,91.78,2024-01-09
+ORD000492,CUST00076,North America,Clothing,Denim Jacket,33.79,2024-01-19
+ORD000821,CUST00017,Europe,Toys & Games,Remote Control Car,52.07,2024-12-25
+ORD000984,CUST00530,North America,Books,Sci-Fi Anthology,32.74,2024-05-03
+ORD000823,CUST00404,Asia Pacific,Toys & Games,Remote Control Car,74.08,2024-02-01
+ORD000680,CUST00483,North America,Home & Kitchen,Knife Set,15.3,2024-02-07
+ORD000697,CUST00216,Asia Pacific,Electronics,Smartphone Case,223.13,2024-08-24
+ORD000136,CUST00417,Asia Pacific,Clothing,Wool Sweater,45.26,2024-07-24
+ORD000224,CUST00265,Europe,Toys & Games,Remote Control Car,64.49,2024-10-16
+ORD000417,CUST00048,Europe,Electronics,USB-C Cable,237.45,2024-04-17
+ORD000013,CUST00565,Europe,Clothing,Cotton T-Shirt,99.53,2024-07-24
+ORD000781,CUST00312,North America,Clothing,Cotton T-Shirt,25.91,2024-11-12
+ORD000086,CUST00059,North America,Beauty,Perfume,71.39,2024-01-11
+ORD000247,CUST00273,North America,Electronics,Bluetooth Speaker,206.28,2024-03-11
+ORD000508,CUST00041,North America,Home & Kitchen,Table Lamp,60.16,2024-04-16
+ORD000464,CUST00039,South America,Clothing,Running Shoes,41.29,2024-07-09
+ORD000720,CUST00227,South America,Beauty,Shampoo Set,22.7,2024-07-29
+ORD000491,CUST00610,Europe,Electronics,Laptop Stand,30.57,2024-01-07
+ORD000404,CUST00151,North America,Grocery,Granola Bars,19.4,2024-05-18
+ORD000544,CUST00143,North America,Toys & Games,Action Figure,62.08,2024-12-17
+ORD000436,CUST00110,North America,Clothing,Cotton T-Shirt,51.53,2024-08-22
+ORD000035,CUST00077,North America,Home & Kitchen,Storage Containers,35.69,2024-08-24
+ORD000517,CUST00023,South America,Electronics,Laptop Stand,125.29,2024-07-21
+ORD000482,CUST00303,North America,Electronics,Wireless Earbuds,142.49,2024-04-14
+ORD000830,CUST00131,North America,Grocery,Granola Bars,42.34,2024-06-10
+ORD000046,CUST00027,Europe,Home & Kitchen,Non-stick Pan,11.3,2024-11-14
+ORD000428,CUST00289,North America,Electronics,USB-C Cable,100.16,2024-06-02
+ORD000006,CUST00017,Asia Pacific,Books,Mystery Novel,31.35,2024-10-01
+ORD000588,CUST00391,Asia Pacific,Clothing,Running Shoes,34.78,2024-09-21
+ORD000762,CUST00441,North America,Sports & Outdoors,Yoga Mat,125.25,2024-07-13
+ORD000666,CUST00051,North America,Home & Kitchen,Storage Containers,15.69,2024-05-22
+ORD000228,CUST00395,South America,Electronics,Laptop Stand,141.55,2024-08-24
+ORD000730,CUST00192,North America,Sports & Outdoors,Yoga Mat,109.1,2024-03-01
+ORD000445,CUST00095,Europe,Books,Sci-Fi Anthology,25.59,2024-02-27
+ORD000336,CUST00572,North America,Electronics,Wireless Earbuds,102.75,2024-08-22
+ORD000254,CUST00439,North America,Sports & Outdoors,Hiking Backpack,115.38,2024-02-10
+ORD000253,CUST00562,Europe,Toys & Games,Board Game,13.06,2024-08-29
+ORD000439,CUST00437,North America,Home & Kitchen,Coffee Maker,90.47,2024-08-04
+ORD000891,CUST00398,Europe,Electronics,Wireless Earbuds,50.06,2024-12-27
+ORD000286,CUST00012,North America,Sports & Outdoors,Hiking Backpack,100.32,2024-07-28
+ORD000474,CUST00090,North America,Books,Children's Storybook,31.08,2024-05-25
+ORD000485,CUST00636,North America,Books,Mystery Novel,17.9,2024-12-02
+ORD000879,CUST00192,South America,Beauty,Sunscreen SPF50,22.91,2024-12-09
+ORD000707,CUST00065,North America,Electronics,Smartphone Case,81.48,2024-12-08
+ORD000901,CUST00414,Asia Pacific,Clothing,Cotton T-Shirt,20.15,2024-08-01
+ORD000535,CUST00029,North America,Grocery,Granola Bars,30.97,2024-03-30
+ORD000798,CUST00016,North America,Electronics,USB-C Cable,98.55,2024-09-12
+ORD000089,CUST00528,Asia Pacific,Home & Kitchen,Knife Set,71.02,2024-01-15
+ORD000814,CUST00119,North America,Beauty,Perfume,69.27,2024-10-10
+ORD000835,CUST00002,South America,Electronics,Smartphone Case,34.77,2024-12-19
+ORD000592,CUST00465,North America,Home & Kitchen,Storage Containers,136.91,2024-12-09
+ORD000881,CUST00432,Asia Pacific,Beauty,Sunscreen SPF50,35.13,2024-01-22
+ORD000788,CUST00105,North America,Electronics,Wireless Earbuds,30.02,2024-03-10
+ORD000654,CUST00061,Europe,Sports & Outdoors,Camping Tent,176.86,2024-11-28
+ORD000161,CUST00070,Europe,Home & Kitchen,Non-stick Pan,135.85,2024-08-26
+ORD000619,CUST00003,North America,Electronics,Laptop Stand,177.18,2024-03-17
+ORD000303,CUST00268,North America,Clothing,Wool Sweater,116.5,2024-04-20
+ORD000715,CUST00409,North America,Clothing,Cotton T-Shirt,65.56,2024-09-02
+ORD000352,CUST00013,North America,Sports & Outdoors,Resistance Bands,179.01,2024-02-05
+ORD000176,CUST00649,North America,Clothing,Cotton T-Shirt,80.05,2024-10-14
+ORD000849,CUST00401,North America,Books,Children's Storybook,15.88,2024-02-06
+ORD000914,CUST00500,North America,Clothing,Wool Sweater,91.06,2024-11-11
+ORD000477,CUST00266,North America,Home & Kitchen,Table Lamp,19.94,2024-01-07
+ORD000114,CUST00658,Europe,Electronics,USB-C Cable,90.83,2024-10-28
+ORD000976,CUST00582,North America,Electronics,Bluetooth Speaker,161.02,2024-03-19
+ORD000288,CUST00285,North America,Toys & Games,Action Figure,61.18,2024-04-03
+ORD000062,CUST00141,Asia Pacific,Beauty,Shampoo Set,9.59,2024-04-08
+ORD000583,CUST00397,Europe,Electronics,Smartphone Case,163.84,2024-06-05
+ORD000033,CUST00052,North America,Home & Kitchen,Storage Containers,67.55,2024-01-28
+ORD000131,CUST00217,Europe,Beauty,Lipstick,48.45,2024-01-14
+ORD000845,CUST00470,North America,Home & Kitchen,Table Lamp,90.54,2024-02-16
+ORD000866,CUST00606,Asia Pacific,Electronics,Laptop Stand,238.81,2024-04-25
+ORD000277,CUST00160,Europe,Books,Children's Storybook,19.74,2024-06-09
+ORD000956,CUST00019,North America,Electronics,USB-C Cable,184.49,2024-07-20
+ORD000826,CUST00653,South America,Electronics,Bluetooth Speaker,146.97,2024-04-07
+ORD000764,CUST00072,North America,Books,Self-Help Guide,13.89,2024-08-05
+ORD000469,CUST00469,North America,Clothing,Running Shoes,29.4,2024-03-09
+ORD000140,CUST00221,North America,Clothing,Denim Jacket,112.41,2024-08-12
+ORD000383,CUST00291,Asia Pacific,Electronics,Wireless Earbuds,198.15,2024-07-30
+ORD000397,CUST00040,North America,Toys & Games,Remote Control Car,64.16,2024-10-03
+ORD000183,CUST00684,North America,Beauty,Lipstick,12.06,2024-05-21
+ORD000466,CUST00210,North America,Electronics,Bluetooth Speaker,134.9,2024-03-08
+ORD000625,CUST00161,North America,Electronics,USB-C Cable,241.71,2024-05-19
+ORD000222,CUST00620,North America,Sports & Outdoors,Camping Tent,51.69,2024-03-15
+ORD000149,CUST00588,South America,Clothing,Wool Sweater,39.52,2024-07-29
+ORD000447,CUST00494,North America,Electronics,USB-C Cable,52.53,2024-11-30
+ORD000903,CUST00047,North America,Books,Mystery Novel,10.98,2024-06-02
+ORD000737,CUST00529,Europe,Sports & Outdoors,Yoga Mat,39.0,2024-11-21
+ORD000600,CUST00032,Asia Pacific,Electronics,Wireless Earbuds,137.27,2024-11-19
+ORD000898,CUST00073,Europe,Home & Kitchen,Storage Containers,71.86,2024-11-03
+ORD000076,CUST00366,Europe,Home & Kitchen,Table Lamp,37.22,2024-12-22
+ORD000869,CUST00036,South America,Beauty,Lipstick,38.09,2024-03-08
+ORD000385,CUST00233,North America,Books,Children's Storybook,37.21,2024-12-03
+ORD000205,CUST00334,Asia Pacific,Beauty,Perfume,49.11,2024-11-25
+ORD000423,CUST00325,Europe,Books,Self-Help Guide,38.9,2024-08-08
+ORD000243,CUST00504,Asia Pacific,Electronics,USB-C Cable,39.61,2024-07-05
+ORD000101,CUST00572,Europe,Electronics,Laptop Stand,202.18,2024-06-26
+ORD000234,CUST00519,Europe,Electronics,Wireless Earbuds,152.75,2024-07-16
+ORD000725,CUST00356,Asia Pacific,Home & Kitchen,Non-stick Pan,23.05,2024-12-03
+ORD000113,CUST00231,North America,Clothing,Denim Jacket,48.13,2024-10-01
+ORD000236,CUST00015,Europe,Beauty,Lipstick,72.84,2024-12-23
+ORD000729,CUST00080,Europe,Beauty,Face Moisturizer,26.98,2024-10-05
+ORD000694,CUST00018,Europe,Beauty,Lipstick,40.55,2024-06-17
+ORD000204,CUST00405,North America,Electronics,Laptop Stand,110.86,2024-05-22
+ORD000430,CUST00529,Asia Pacific,Sports & Outdoors,Resistance Bands,41.31,2024-03-22
+ORD000334,CUST00594,North America,Books,Mystery Novel,37.71,2024-06-20
+ORD000953,CUST00102,South America,Home & Kitchen,Knife Set,148.64,2024-10-25
+ORD000607,CUST00099,North America,Sports & Outdoors,Resistance Bands,100.05,2024-08-10
+ORD000456,CUST00384,Europe,Clothing,Cotton T-Shirt,81.53,2024-02-17
+ORD000241,CUST00567,North America,Toys & Games,Action Figure,13.02,2024-06-21
+ORD000073,CUST00362,North America,Home & Kitchen,Coffee Maker,81.56,2024-03-27
+ORD000119,CUST00671,North America,Beauty,Face Moisturizer,63.08,2024-07-24
+ORD000528,CUST00114,Europe,Clothing,Summer Dress,17.96,2024-12-24
+ORD000497,CUST00233,North America,Clothing,Running Shoes,92.66,2024-05-04
+ORD000030,CUST00347,North America,Sports & Outdoors,Yoga Mat,50.46,2024-01-17
+ORD000822,CUST00348,North America,Clothing,Cotton T-Shirt,16.37,2024-04-16
+ORD000758,CUST00664,Asia Pacific,Clothing,Running Shoes,66.7,2024-10-21
+ORD000551,CUST00563,North America,Clothing,Wool Sweater,24.2,2024-12-04
+ORD000054,CUST00388,North America,Sports & Outdoors,Resistance Bands,130.55,2024-10-14
+ORD000107,CUST00365,North America,Electronics,Smartphone Case,70.0,2024-04-18
+ORD000755,CUST00641,North America,Sports & Outdoors,Camping Tent,135.55,2024-05-15
+ORD000465,CUST00412,Europe,Electronics,Smartphone Case,189.72,2024-04-29
+ORD000632,CUST00681,Europe,Clothing,Summer Dress,87.27,2024-11-12
+ORD000343,CUST00503,Europe,Books,Self-Help Guide,19.76,2024-04-23
+ORD000258,CUST00284,North America,Electronics,USB-C Cable,30.34,2024-06-29
+ORD000446,CUST00333,North America,Home & Kitchen,Knife Set,85.89,2024-01-22
+ORD000215,CUST00095,North America,Home & Kitchen,Storage Containers,34.6,2024-07-13
+ORD000292,CUST00101,North America,Home & Kitchen,Coffee Maker,92.85,2024-10-24
+ORD000373,CUST00101,Asia Pacific,Electronics,Bluetooth Speaker,241.66,2024-03-01
+ORD000661,CUST00323,North America,Toys & Games,Puzzle Set,65.43,2024-01-25
+ORD000056,CUST00341,North America,Electronics,Smartphone Case,110.22,2024-01-21
+ORD000045,CUST00290,South America,Electronics,Smartphone Case,82.51,2024-07-21
+ORD000687,CUST00097,Europe,Clothing,Running Shoes,115.53,2024-01-06
+ORD000164,CUST00700,Asia Pacific,Electronics,USB-C Cable,155.82,2024-10-21
+ORD000969,CUST00244,North America,Home & Kitchen,Knife Set,68.94,2024-05-30
+ORD000873,CUST00050,Asia Pacific,Electronics,Wireless Earbuds,198.4,2024-07-30
+ORD000486,CUST00477,North America,Sports & Outdoors,Yoga Mat,39.52,2024-06-26
+ORD000702,CUST00609,North America,Sports & Outdoors,Camping Tent,73.46,2024-04-24
+ORD000909,CUST00145,North America,Books,Children's Storybook,31.33,2024-09-11
+ORD000116,CUST00068,North America,Electronics,Laptop Stand,57.85,2024-01-24
+ORD000199,CUST00109,North America,Clothing,Denim Jacket,87.12,2024-08-30
+ORD000055,CUST00002,North America,Beauty,Shampoo Set,44.55,2024-07-08
+ORD000284,CUST00688,Europe,Clothing,Wool Sweater,17.76,2024-10-10
+ORD000214,CUST00687,North America,Electronics,Bluetooth Speaker,198.82,2024-05-10
+ORD000676,CUST00283,North America,Home & Kitchen,Knife Set,135.76,2024-04-08
+ORD000642,CUST00126,Europe,Books,Self-Help Guide,30.91,2024-02-28
+ORD000476,CUST00279,Europe,Clothing,Cotton T-Shirt,97.3,2024-05-02
+ORD000225,CUST00393,South America,Clothing,Running Shoes,30.85,2024-02-04
+ORD000520,CUST00397,North America,Beauty,Sunscreen SPF50,12.09,2024-05-23
+ORD000553,CUST00681,North America,Electronics,USB-C Cable,133.61,2024-12-04
+ORD000371,CUST00009,North America,Books,Mystery Novel,35.96,2024-04-06
+ORD000897,CUST00235,Asia Pacific,Home & Kitchen,Non-stick Pan,95.12,2024-09-09
+ORD000098,CUST00669,Europe,Toys & Games,Board Game,87.18,2024-02-25
+ORD000543,CUST00172,Europe,Grocery,Granola Bars,24.72,2024-07-12
+ORD000121,CUST00657,North America,Clothing,Summer Dress,95.27,2024-11-06
+ORD000197,CUST00020,Europe,Beauty,Perfume,56.3,2024-04-20
+ORD000242,CUST00594,Europe,Books,Cookbook,13.19,2024-12-20
+ORD000572,CUST00028,South America,Home & Kitchen,Knife Set,47.72,2024-08-01
+ORD000005,CUST00441,North America,Electronics,Smartphone Case,52.49,2024-07-13
+ORD000429,CUST00008,Europe,Electronics,Smartphone Case,172.55,2024-12-12
+ORD000357,CUST00558,Europe,Grocery,Granola Bars,31.94,2024-10-05
+ORD000309,CUST00179,Europe,Clothing,Running Shoes,94.27,2024-04-11
+ORD000643,CUST00017,Europe,Electronics,Smartphone Case,212.57,2024-05-29
+ORD000091,CUST00684,North America,Beauty,Perfume,45.81,2024-01-14
+ORD000627,CUST00020,Europe,Electronics,Bluetooth Speaker,52.82,2024-10-29
+ORD000934,CUST00608,North America,Electronics,Wireless Earbuds,133.56,2024-12-11
+ORD000735,CUST00137,Europe,Sports & Outdoors,Yoga Mat,137.63,2024-08-16
+ORD000185,CUST00392,Europe,Electronics,Smartphone Case,83.59,2024-03-05
+ORD000611,CUST00522,North America,Books,Children's Storybook,27.94,2024-10-31
+ORD000039,CUST00085,Europe,Home & Kitchen,Storage Containers,107.52,2024-10-11
+ORD000806,CUST00120,North America,Clothing,Cotton T-Shirt,56.56,2024-05-04
+ORD000882,CUST00363,Asia Pacific,Sports & Outdoors,Hiking Backpack,114.73,2024-10-19
+ORD000179,CUST00020,North America,Home & Kitchen,Storage Containers,73.51,2024-12-09
+ORD000942,CUST00020,North America,Beauty,Lipstick,59.45,2024-11-05
+ORD000422,CUST00019,North America,Sports & Outdoors,Camping Tent,120.7,2024-01-23
+ORD000462,CUST00515,North America,Electronics,Bluetooth Speaker,127.08,2024-01-01
+ORD000915,CUST00666,Asia Pacific,Electronics,Smartphone Case,232.9,2024-09-02
+ORD000278,CUST00399,North America,Electronics,Bluetooth Speaker,139.79,2024-07-17
+ORD000656,CUST00324,Europe,Grocery,Granola Bars,31.97,2024-09-30
+ORD000147,CUST00092,North America,Books,Sci-Fi Anthology,35.69,2024-08-16
+ORD000212,CUST00197,North America,Home & Kitchen,Knife Set,70.19,2024-05-25
+ORD000130,CUST00024,Europe,Sports & Outdoors,Water Bottle,96.08,2024-09-09
+ORD000709,CUST00007,Europe,Electronics,Laptop Stand,169.38,2024-05-20
+ORD000488,CUST00471,North America,Beauty,Lipstick,62.08,2024-05-19
+ORD000792,CUST00455,Europe,Toys & Games,Board Game,31.04,2024-08-04
+ORD000711,CUST00155,Europe,Toys & Games,Action Figure,30.13,2024-04-24
+ORD000427,CUST00020,South America,Electronics,Smartphone Case,105.47,2024-04-15
+ORD000291,CUST00610,Asia Pacific,Clothing,Summer Dress,43.82,2024-11-16
+ORD000847,CUST00332,North America,Clothing,Cotton T-Shirt,56.85,2024-08-10
+ORD000668,CUST00451,North America,Electronics,Smartphone Case,161.31,2024-11-16
+ORD000724,CUST00429,Asia Pacific,Books,Cookbook,23.23,2024-11-10
+ORD000092,CUST00015,North America,Beauty,Shampoo Set,11.37,2024-07-13
+ORD000184,CUST00052,North America,Beauty,Sunscreen SPF50,14.14,2024-04-18
+ORD000008,CUST00602,North America,Electronics,Wireless Earbuds,40.08,2024-04-26
+ORD000007,CUST00024,Asia Pacific,Electronics,Smartphone Case,212.47,2024-11-12
+ORD000977,CUST00561,Europe,Home & Kitchen,Storage Containers,43.31,2024-08-13
+ORD000955,CUST00158,North America,Electronics,Laptop Stand,210.57,2024-07-02
+ORD000929,CUST00288,Europe,Clothing,Summer Dress,94.64,2024-11-23
+ORD000162,CUST00616,Europe,Electronics,USB-C Cable,237.95,2024-10-27
+ORD000797,CUST00050,North America,Clothing,Wool Sweater,91.35,2024-04-29
+ORD000386,CUST00260,North America,Books,Mystery Novel,8.54,2024-05-20
+ORD000628,CUST00256,Europe,Home & Kitchen,Table Lamp,63.17,2024-07-02
+ORD000889,CUST00310,North America,Clothing,Cotton T-Shirt,33.78,2024-10-29
+ORD000811,CUST00519,Europe,Toys & Games,Remote Control Car,68.66,2024-01-11
+ORD000103,CUST00548,North America,Grocery,Granola Bars,33.29,2024-08-10
+ORD000137,CUST00540,Europe,Home & Kitchen,Knife Set,45.34,2024-02-29
+ORD000042,CUST00631,North America,Electronics,Laptop Stand,47.62,2024-04-05
+ORD000596,CUST00202,Asia Pacific,Clothing,Summer Dress,45.88,2024-03-01
+ORD000250,CUST00227,North America,Toys & Games,Building Blocks,85.71,2024-04-23
+ORD000450,CUST00433,Asia Pacific,Books,Sci-Fi Anthology,13.31,2024-03-12
+ORD000169,CUST00396,North America,Home & Kitchen,Table Lamp,61.08,2024-03-08
+ORD000567,CUST00516,Asia Pacific,Beauty,Sunscreen SPF50,25.7,2024-12-01
+ORD000379,CUST00460,North America,Electronics,Bluetooth Speaker,113.56,2024-05-05
+ORD000714,CUST00091,North America,Electronics,Laptop Stand,187.81,2024-03-01
+ORD000173,CUST00532,North America,Electronics,Bluetooth Speaker,219.23,2024-12-11
+ORD000426,CUST00137,North America,Electronics,USB-C Cable,232.52,2024-02-13
+ORD000776,CUST00332,Asia Pacific,Electronics,Bluetooth Speaker,105.6,2024-06-09
+ORD000902,CUST00695,North America,Clothing,Summer Dress,75.09,2024-10-14
+ORD000281,CUST00229,Asia Pacific,Home & Kitchen,Non-stick Pan,123.47,2024-06-12
+ORD000857,CUST00256,Europe,Electronics,Wireless Earbuds,112.85,2024-12-05
+ORD000868,CUST00667,Europe,Books,Cookbook,21.35,2024-10-20
+ORD000344,CUST00065,North America,Electronics,Laptop Stand,112.2,2024-12-25
+ORD000178,CUST00399,North America,Electronics,Wireless Earbuds,96.96,2024-09-09
+ORD000943,CUST00335,North America,Home & Kitchen,Non-stick Pan,55.62,2024-11-28
+ORD000911,CUST00021,North America,Toys & Games,Board Game,73.97,2024-07-31
+ORD000783,CUST00222,North America,Home & Kitchen,Coffee Maker,14.0,2024-12-05
+ORD000219,CUST00044,South America,Home & Kitchen,Knife Set,22.34,2024-02-24
+ORD000885,CUST00687,North America,Clothing,Cotton T-Shirt,34.93,2024-08-13
+ORD000330,CUST00190,South America,Beauty,Sunscreen SPF50,51.59,2024-05-27
+ORD000141,CUST00598,North America,Electronics,Laptop Stand,205.85,2024-12-29
+ORD000559,CUST00250,North America,Beauty,Face Moisturizer,41.64,2024-09-21
+ORD000590,CUST00426,Europe,Sports & Outdoors,Water Bottle,55.58,2024-08-02
+ORD000701,CUST00338,Europe,Electronics,Wireless Earbuds,151.35,2024-10-05
+ORD000124,CUST00666,North America,Toys & Games,Board Game,31.17,2024-02-11
+ORD000333,CUST00644,North America,Toys & Games,Remote Control Car,24.9,2024-05-28
+ORD000412,CUST00126,Europe,Toys & Games,Puzzle Set,45.22,2024-08-08
+ORD000913,CUST00434,North America,Electronics,Smartphone Case,141.47,2024-06-14
+ORD000756,CUST00059,North America,Clothing,Summer Dress,52.38,2024-02-24
+ORD000880,CUST00690,Europe,Electronics,USB-C Cable,220.77,2024-09-07
+ORD000831,CUST00314,South America,Beauty,Sunscreen SPF50,59.2,2024-08-08
+ORD000925,CUST00635,Europe,Home & Kitchen,Knife Set,30.06,2024-02-20
+ORD000437,CUST00371,Asia Pacific,Sports & Outdoors,Water Bottle,166.34,2024-10-29
+ORD000970,CUST00095,North America,Beauty,Lipstick,56.71,2024-10-15
+ORD000824,CUST00151,Europe,Beauty,Lipstick,61.21,2024-01-30
+ORD000939,CUST00429,Europe,Home & Kitchen,Coffee Maker,142.64,2024-03-14
+ORD000226,CUST00244,Europe,Toys & Games,Action Figure,14.49,2024-09-16
+ORD000631,CUST00446,Europe,Toys & Games,Action Figure,67.9,2024-04-24
+ORD000819,CUST00118,Europe,Electronics,Laptop Stand,174.96,2024-01-23
+ORD000610,CUST00061,North America,Home & Kitchen,Non-stick Pan,61.32,2024-11-29
+ORD000510,CUST00102,Europe,Books,Cookbook,34.75,2024-06-16
+ORD000117,CUST00678,Europe,Sports & Outdoors,Camping Tent,119.16,2024-09-08
+ORD000109,CUST00318,North America,Electronics,Bluetooth Speaker,188.42,2024-09-07
+ORD000877,CUST00511,North America,Beauty,Sunscreen SPF50,55.71,2024-07-10
+ORD000998,CUST00001,North America,Clothing,Denim Jacket,88.51,2024-07-19
+ORD000066,CUST00467,North America,Books,Children's Storybook,11.7,2024-10-22
+ORD000606,CUST00109,North America,Home & Kitchen,Knife Set,33.38,2024-01-24
+ORD000856,CUST00060,North America,Electronics,Laptop Stand,195.08,2024-10-07
+ORD000175,CUST00003,North America,Home & Kitchen,Knife Set,91.84,2024-11-22
+ORD000626,CUST00559,Europe,Home & Kitchen,Storage Containers,100.84,2024-03-26
+ORD000468,CUST00690,North America,Electronics,Wireless Earbuds,80.37,2024-02-15
+ORD000100,CUST00014,Europe,Books,Mystery Novel,30.31,2024-06-03
+ORD000813,CUST00321,North America,Home & Kitchen,Table Lamp,36.13,2024-06-27
+ORD000841,CUST00169,Europe,Beauty,Lipstick,31.31,2024-08-10
+ORD000315,CUST00382,Europe,Clothing,Summer Dress,75.65,2024-01-27
+ORD000052,CUST00432,Asia Pacific,Home & Kitchen,Knife Set,136.75,2024-01-27
+ORD000952,CUST00370,North America,Electronics,Smartphone Case,95.94,2024-12-13
+ORD000177,CUST00123,Europe,Books,Sci-Fi Anthology,37.1,2024-06-03
+ORD000015,CUST00181,Asia Pacific,Home & Kitchen,Knife Set,29.55,2024-10-14
+ORD000134,CUST00245,Europe,Beauty,Shampoo Set,74.8,2024-08-11
+ORD000665,CUST00508,South America,Clothing,Denim Jacket,118.26,2024-02-08
+ORD000719,CUST00674,Europe,Beauty,Lipstick,71.47,2024-04-20
+ORD000249,CUST00452,North America,Electronics,Wireless Earbuds,197.89,2024-05-19
+ORD000047,CUST00699,South America,Electronics,Bluetooth Speaker,141.29,2024-03-08
+ORD000634,CUST00171,Asia Pacific,Books,Children's Storybook,9.75,2024-11-25
+ORD000483,CUST00678,North America,Clothing,Summer Dress,81.6,2024-11-28
+ORD000020,CUST00427,North America,Clothing,Running Shoes,26.71,2024-08-10
+ORD000917,CUST00608,North America,Clothing,Wool Sweater,112.42,2024-01-29
+ORD000941,CUST00125,Asia Pacific,Clothing,Wool Sweater,18.18,2024-08-31
+ORD000145,CUST00033,North America,Books,Cookbook,35.65,2024-05-21
+ORD000754,CUST00250,North America,Beauty,Lipstick,20.25,2024-12-15
+ORD000928,CUST00431,Europe,Electronics,USB-C Cable,225.62,2024-02-22
+ORD000074,CUST00407,North America,Sports & Outdoors,Resistance Bands,68.31,2024-04-30
+ORD000239,CUST00205,North America,Clothing,Denim Jacket,114.87,2024-06-23
+ORD000594,CUST00245,Europe,Sports & Outdoors,Resistance Bands,140.17,2024-04-03
+ORD000759,CUST00588,North America,Grocery,Herbal Tea,16.21,2024-04-23
+ORD000153,CUST00003,North America,Beauty,Shampoo Set,13.01,2024-05-15
+ORD000550,CUST00085,North America,Clothing,Cotton T-Shirt,56.25,2024-10-08
+ORD000896,CUST00021,North America,Electronics,Laptop Stand,198.39,2024-01-07
+ORD000892,CUST00227,North America,Home & Kitchen,Storage Containers,111.76,2024-09-18
+ORD000695,CUST00371,North America,Books,Children's Storybook,26.14,2024-06-10
+ORD000470,CUST00392,Europe,Electronics,Laptop Stand,31.86,2024-11-28
+ORD000536,CUST00449,Europe,Beauty,Perfume,60.73,2024-04-24
+ORD000684,CUST00008,Asia Pacific,Clothing,Summer Dress,26.14,2024-12-17
+ORD000670,CUST00515,North America,Electronics,Bluetooth Speaker,144.53,2024-09-15
+ORD000827,CUST00054,Europe,Books,Cookbook,25.87,2024-10-12
+ORD000217,CUST00216,North America,Electronics,Smartphone Case,156.67,2024-10-20
+ORD000122,CUST00353,Europe,Toys & Games,Remote Control Car,46.04,2024-08-14
+ORD000416,CUST00543,North America,Electronics,Laptop Stand,73.96,2024-10-06
+ORD000044,CUST00076,Europe,Books,Sci-Fi Anthology,29.04,2024-10-16
+ORD000739,CUST00084,North America,Books,Sci-Fi Anthology,37.78,2024-07-24
+ORD000807,CUST00002,North America,Toys & Games,Remote Control Car,65.07,2024-03-20
+ORD000346,CUST00490,Asia Pacific,Electronics,USB-C Cable,146.2,2024-07-04
+ORD000058,CUST00601,North America,Books,Cookbook,37.62,2024-05-01
+ORD000348,CUST00333,North America,Clothing,Summer Dress,61.39,2024-12-14
+ORD000038,CUST00254,Asia Pacific,Beauty,Shampoo Set,33.39,2024-07-18
+ORD000017,CUST00698,North America,Home & Kitchen,Non-stick Pan,130.55,2024-03-19
+ORD000461,CUST00027,Asia Pacific,Toys & Games,Building Blocks,13.68,2024-11-16
+ORD000832,CUST00551,North America,Clothing,Summer Dress,37.46,2024-10-08
+ORD000855,CUST00003,Europe,Electronics,USB-C Cable,133.66,2024-06-18
+ORD000547,CUST00311,Asia Pacific,Electronics,Laptop Stand,246.76,2024-09-04
+ORD000512,CUST00099,Asia Pacific,Electronics,USB-C Cable,218.01,2024-10-11
+ORD000316,CUST00342,North America,Books,Children's Storybook,32.79,2024-07-13
+ORD000659,CUST00078,Asia Pacific,Sports & Outdoors,Water Bottle,46.27,2024-10-04
+ORD000554,CUST00084,Europe,Clothing,Running Shoes,107.98,2024-07-08
+ORD000812,CUST00433,North America,Electronics,Wireless Earbuds,136.77,2024-08-12
+ORD000065,CUST00047,South America,Clothing,Cotton T-Shirt,77.64,2024-06-25
+ORD000399,CUST00010,North America,Toys & Games,Puzzle Set,58.41,2024-11-10
+ORD000501,CUST00164,Europe,Clothing,Denim Jacket,70.63,2024-05-01
+ORD000245,CUST00071,North America,Grocery,Granola Bars,41.16,2024-04-09
+ORD000608,CUST00604,South America,Clothing,Wool Sweater,52.72,2024-04-06
+ORD000738,CUST00001,North America,Electronics,Laptop Stand,125.78,2024-02-02
+ORD000026,CUST00499,North America,Home & Kitchen,Table Lamp,33.12,2024-09-27
+ORD000198,CUST00210,Asia Pacific,Home & Kitchen,Storage Containers,65.82,2024-02-18
+ORD000037,CUST00700,Asia Pacific,Grocery,Pasta Pack,11.65,2024-09-05
+ORD000144,CUST00278,North America,Toys & Games,Remote Control Car,29.5,2024-10-09
+ORD000195,CUST00012,North America,Books,Children's Storybook,30.79,2024-07-14
+ORD000753,CUST00077,North America,Sports & Outdoors,Water Bottle,24.77,2024-04-01
+ORD000449,CUST00218,South America,Toys & Games,Board Game,26.79,2024-10-28
+ORD000985,CUST00472,Europe,Electronics,Smartphone Case,179.1,2024-04-02
+ORD000907,CUST00295,North America,Sports & Outdoors,Resistance Bands,168.89,2024-12-27
+ORD000087,CUST00577,Europe,Clothing,Cotton T-Shirt,113.99,2024-06-01
+ORD000499,CUST00495,North America,Electronics,USB-C Cable,35.26,2024-10-04
+ORD000991,CUST00050,North America,Sports & Outdoors,Yoga Mat,119.32,2024-05-21
+ORD000999,CUST00335,North America,Grocery,Granola Bars,24.13,2024-07-25
+ORD000646,CUST00457,North America,Home & Kitchen,Table Lamp,27.25,2024-08-18
+ORD000110,CUST00318,North America,Home & Kitchen,Storage Containers,72.74,2024-01-09
+ORD000918,CUST00559,North America,Sports & Outdoors,Water Bottle,105.27,2024-01-10
+ORD000400,CUST00662,North America,Toys & Games,Building Blocks,60.73,2024-08-18
+ORD000713,CUST00002,Asia Pacific,Home & Kitchen,Coffee Maker,20.79,2024-11-25
+ORD000307,CUST00054,Europe,Electronics,Laptop Stand,129.08,2024-10-08
+ORD000196,CUST00696,North America,Home & Kitchen,Table Lamp,70.23,2024-12-25
+ORD000677,CUST00116,North America,Electronics,Laptop Stand,147.31,2024-11-16
+ORD000394,CUST00061,Asia Pacific,Beauty,Sunscreen SPF50,26.16,2024-02-08
+ORD000041,CUST00473,North America,Clothing,Cotton T-Shirt,76.34,2024-09-14
+ORD000568,CUST00258,Europe,Electronics,Smartphone Case,118.65,2024-11-12
+ORD000181,CUST00602,Europe,Toys & Games,Action Figure,42.65,2024-05-23
+ORD000208,CUST00328,North America,Electronics,Wireless Earbuds,50.19,2024-09-28
+ORD000664,CUST00446,Europe,Toys & Games,Action Figure,69.08,2024-04-10
+ORD000297,CUST00433,North America,Home & Kitchen,Storage Containers,38.56,2024-11-06
+ORD000785,CUST00644,North America,Electronics,Laptop Stand,68.95,2024-11-01
+ORD000779,CUST00042,Asia Pacific,Electronics,Bluetooth Speaker,175.64,2024-12-24
+ORD000471,CUST00041,North America,Electronics,Bluetooth Speaker,232.38,2024-11-11
+ORD000862,CUST00586,North America,Electronics,Laptop Stand,242.69,2024-10-14
+ORD000083,CUST00257,North America,Home & Kitchen,Knife Set,42.83,2024-06-20
+ORD000349,CUST00059,Europe,Electronics,Laptop Stand,128.01,2024-01-29
+ORD000874,CUST00667,North America,Sports & Outdoors,Water Bottle,37.53,2024-04-06
+ORD000548,CUST00446,North America,Sports & Outdoors,Resistance Bands,161.48,2024-03-21
+ORD000375,CUST00628,Europe,Toys & Games,Remote Control Car,47.3,2024-11-28
+ORD000093,CUST00122,North America,Clothing,Wool Sweater,44.22,2024-08-03
+ORD000663,CUST00003,North America,Books,Sci-Fi Anthology,34.56,2024-11-20
+ORD000982,CUST00169,North America,Home & Kitchen,Non-stick Pan,23.63,2024-09-29
+ORD000648,CUST00316,North America,Books,Children's Storybook,32.99,2024-03-31
+ORD000057,CUST00614,North America,Clothing,Cotton T-Shirt,52.14,2024-10-13
+ORD000411,CUST00267,Europe,Home & Kitchen,Coffee Maker,52.65,2024-07-21
+ORD000311,CUST00532,North America,Electronics,Laptop Stand,60.75,2024-11-09
+ORD000699,CUST00015,North America,Toys & Games,Action Figure,25.71,2024-11-16
+ORD000342,CUST00415,North America,Electronics,Laptop Stand,233.08,2024-12-26
+ORD000368,CUST00074,North America,Beauty,Shampoo Set,61.99,2024-01-30
+ORD000958,CUST00045,North America,Books,Self-Help Guide,34.88,2024-03-19
+ORD000549,CUST00010,North America,Grocery,Granola Bars,32.89,2024-10-03
+ORD000581,CUST00578,Europe,Sports & Outdoors,Water Bottle,121.47,2024-09-19
+ORD000125,CUST00038,North America,Electronics,Wireless Earbuds,119.87,2024-12-18
+ORD000494,CUST00198,Europe,Clothing,Cotton T-Shirt,75.01,2024-03-02
+ORD000799,CUST00699,North America,Toys & Games,Puzzle Set,16.42,2024-03-15
+ORD000838,CUST00078,North America,Clothing,Summer Dress,56.98,2024-04-21
+ORD000706,CUST00408,South America,Sports & Outdoors,Hiking Backpack,169.78,2024-01-21
+ORD000978,CUST00465,North America,Books,Self-Help Guide,9.74,2024-05-15
